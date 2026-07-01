@@ -7,6 +7,14 @@ class ProductModel {
   final double rating;
   final bool isFavorite;
 
+
+
+
+
+
+
+
+
   const ProductModel({
     required this.id,
     required this.title,
