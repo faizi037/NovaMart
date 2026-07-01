@@ -3,6 +3,13 @@ import 'package:provider/provider.dart';
 
 import '../providers/app_provider.dart';
 
+
+
+
+
+
+
+
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});
 
