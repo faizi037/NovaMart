@@ -4,30 +4,6 @@ import 'package:provider/provider.dart';
 import '../providers/app_provider.dart';
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
@@ -155,3 +131,17 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
