@@ -9,33 +9,6 @@ import '../models/models.dart';
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 class FirebaseService {
   FirebaseService();
 
@@ -126,3 +99,10 @@ class FirebaseService {
     return await reference.getDownloadURL();
   }
 }
+
+
+
+
+
+
+
