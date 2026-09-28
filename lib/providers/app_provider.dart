@@ -1,30 +1,6 @@
 import 'package:flutter/material.dart';
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 class AppProvider extends ChangeNotifier {
   bool _isDarkMode = false;
   bool _isLoading = false;
@@ -103,3 +79,12 @@ class AppProvider extends ChangeNotifier {
     return _cart.contains(productId);
   }
 }
+
+
+
+
+
+
+
+
+
