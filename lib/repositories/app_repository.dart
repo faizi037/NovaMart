@@ -3,37 +3,6 @@ import '../services/api_service.dart';
 import '../services/firebase_service.dart';
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 class AppRepository {
   AppRepository({
     ApiService? apiService,
@@ -92,3 +61,11 @@ class AppRepository {
     await _firebaseService.updateWishlist(wishlist);
   }
 }
+
+
+
+
+
+
+
+
