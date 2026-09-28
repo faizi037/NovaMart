@@ -10,34 +10,6 @@ class ProductModel {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   const ProductModel({
     required this.id,
     required this.title,
@@ -105,3 +77,12 @@ class UserModel {
     };
   }
 }
+
+
+
+
+
+
+
+
+
